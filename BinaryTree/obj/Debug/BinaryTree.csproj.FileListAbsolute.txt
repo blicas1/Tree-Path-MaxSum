@@ -1,0 +1,21 @@
+C:\Users\toi\Desktop\slamstas\Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\toi\Desktop\slamstas\Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\toi\Desktop\slamstas\Tree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\toi\Desktop\slamstas\Tree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\toi\Desktop\slamstas\Tree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\toi\Desktop\slamstas\Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\toi\Desktop\slamstas\Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\toi\Work Folders\Documents\GitHub\Triangle-Path-Sum\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\toi\Work Folders\Documents\GitHub\Triangle-Path-Sum\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\toi\Work Folders\Documents\GitHub\Triangle-Path-Sum\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\toi\Work Folders\Documents\GitHub\Triangle-Path-Sum\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\toi\Work Folders\Documents\GitHub\Triangle-Path-Sum\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\toi\Work Folders\Documents\GitHub\Triangle-Path-Sum\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\toi\Work Folders\Documents\GitHub\Triangle-Path-Sum\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\toi\Desktop\Tree-Path-Sum-master\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\toi\Desktop\Tree-Path-Sum-master\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\toi\Desktop\Tree-Path-Sum-master\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\toi\Desktop\Tree-Path-Sum-master\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\toi\Desktop\Tree-Path-Sum-master\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\toi\Desktop\Tree-Path-Sum-master\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\toi\Desktop\Tree-Path-Sum-master\BinaryTree\obj\Debug\BinaryTree.pdb
